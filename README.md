@@ -13,5 +13,4 @@ There are 3 total changes compared to the original Colemak. The motivation is to
 - ; and ' are swapped.
 
 ## Installation
-I included a Windows Installer and a AutoHotkey script.
-I may include MACOS and Linux installation files in the future as well.
+I included a Windows Installer, a AutoHotkey script and a macOS keyboard layout file.
